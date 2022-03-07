@@ -12,11 +12,11 @@ public class FileScanner {
         Scanner fileScanner; {
             try {
                 fileScanner = new Scanner(file);
-                while (fileScanner.hasNextLine()){
+                while(fileScanner.hasNextLine()){
                     String currentLine = fileScanner.nextLine();
                     listSplitter(currentLine);
                 }
-            } catch (FileNotFoundException e) {
+            } catch(FileNotFoundException e) {
                 e.printStackTrace();
             }
         }

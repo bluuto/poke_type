@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41002785-5b43-42a7-9025-e6c0223d0b13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/bluuto/FileScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/bluuto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/bluuto/MainBootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/bluuto/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/bluuto/PokemonTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/bluuto/PokemonTypeSelector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BotCast" beforeDir="false" afterPath="$PROJECT_DIR$/../BotCast" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Boterminant" beforeDir="false" afterPath="$PROJECT_DIR$/../Boterminant" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bottery" beforeDir="false" afterPath="$PROJECT_DIR$/../Bottery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Otbay" beforeDir="false" afterPath="$PROJECT_DIR$/../Otbay" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/bluuto/FileScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/bluuto/FileScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/bluuto/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/bluuto/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/bluuto/PokemonTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/bluuto/PokemonTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quote-bot" beforeDir="false" afterPath="$PROJECT_DIR$/../quote-bot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646631658285</updated>
-      <workItem from="1646631660450" duration="3618000" />
+      <workItem from="1646631660450" duration="4930000" />
     </task>
     <servers />
   </component>
